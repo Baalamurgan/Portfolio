@@ -109,7 +109,7 @@ body {
  }
 }
 .ff {
- background-image: url("../Img/black.jpg");
+ background-image: url("black.jpg");
  background-size: cover;
  color: white;
 }
