@@ -79,7 +79,6 @@ body {
 .con {
  align-content: left;
  text-align: left;
- margin-left: 20px;
 }
 .con h2:hover {
  color: lime;
@@ -113,6 +112,7 @@ body {
  background-image: url("black.jpg");
  background-size: cover;
  color: white;
+ margin-left: 20px;
 }
 #exx {
  color: greenyellow;
